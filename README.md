@@ -40,6 +40,7 @@ upload(); // Chama a função para enviar o arquivo
 
 ## Funcionalidades
 
+- **Não a limite de tempo**: Seus arquivos sempre estarão **Disponivel**.
 - **Limite de Tamanho**: Arquivos maiores que **60MB** serão rejeitados.
 - **Limite de Uploads**: Apenas **6 uploads por minuto** são permitidos.
 
