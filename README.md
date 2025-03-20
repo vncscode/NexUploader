@@ -1,4 +1,4 @@
-# NexUploader
+`# NexUploader
 
 O **NexUploader** é um módulo para Node.js que facilita o envio de arquivos para o servidor de armazenamento, com funcionalidades de limitação de tamanho de arquivo (60MB) e controle de número de uploads (6 uploads por minuto). Esse módulo foi criado para ser simples e eficiente para integrações em projetos que requerem upload de arquivos de maneira controlada.
 
